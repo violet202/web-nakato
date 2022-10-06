@@ -9,5 +9,34 @@ h1{
 ul{
     text-decoration: name;
     list-style-type: name;
-    background-color: brown;
+    /* background-color: brown;\ */
+}
+.samplediv{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 20px;
+    padding: 20px;
+}
+video{
+    width: 50%;
+    height: 200px;
+    margin:0 auto;
+}
+.menu{
+    float: left;
+    background-color: blue;
+    width: 12%;
+}
+.menu li a{
+color: white;
+font-weight: bold;
+}
+li{
+    list-style-type: none;
+    line-height: 40px;
+}
+li a:hover{
+    color:blueviolet;
 }
